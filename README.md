@@ -7,22 +7,17 @@
 
 ## Projeto FreelanceHours
 
-FreelanceHours é uma aplicação desenvolvida em PHP, Laravel e Livewire, onde freelancers podem enviar propostas de horas que podem contribuir em determinado projeto.
+FreelanceHours is an application developed in PHP, Laravel and Livewire where freelancers can submit proposals for hours that can contribute to a given project.
 
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="80%">
+  <img alt="Preview of the developed project." src=".github/preview.png" width="80%">
 </p>
 
 ## Tecnologias utilizadas
 
-- [**PHP**](https://www.php.net/): Linguagem de programação usada;
-- [**Laravel**](https://laravel.com/): Framework PHP utilizado para a estrutura e organização do projeto;
-- [**Livewire**](https://laravel-livewire.com/): Utilizado para criar interfaces dinâmicas e reativas sem sair do Laravel;
-- [**Tailwind**](https://tailwindcss.com/): Framework CSS que facilita o desenvolvimento de interfaces modernas e responsivas.
-
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT - consulte o arquivo LICENSE para mais detalhes.
+- [**PHP**](https://www.php.net/)
+- [**Laravel**](https://laravel.com/)
+- [**Livewire**](https://laravel-livewire.com/)
+- [**Tailwind**](https://tailwindcss.com/)
